@@ -1,5 +1,5 @@
 
-# Hey, I'm Kevin Martin
+# Hey, I'm Kevin Martin 🧑🏻‍💻👨‍🔬
 
 <img align="right" width="364"  src="https://i.pinimg.com/originals/e5/64/65/e564656820aaf1c20a7bb3027035ddf5.jpg" />
 
@@ -11,15 +11,13 @@
   
 ## Current Skills
 
-
 ### Languages
 
 <div class="flex">
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "TypeScript" />
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "JavaScript" />
+  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "JavaScript" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-<img src = "https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt = "SASS" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
 </div>
                                                                                                                
 #### Currently learning
@@ -27,6 +25,7 @@
 <div class="flex">
   <img src = "https://img.shields.io/badge/Rust-814932?style=for-the-badge&logo=rust&logoColor=white" alt = "Rust" />
   <img src = "https://img.shields.io/badge/WebGL-980000?style=for-the-badge&logo=WebGL&logoColor=white&logoWidth=20" alt = "Webgl" />
+  <img src = "https://img.shields.io/badge/Three.js-705df2?style=for-the-badge&logo=three.js&logoColor=white&logoWidth=20" alt = "Three.js" />
 </div>
 
 ### Frameworks, Libraries and Tools
@@ -37,7 +36,7 @@
   <img src = "https://img.shields.io/badge/Svelte-282828?style=for-the-badge&logo=svelte" alt = "Svelte" />
   <img src = "https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&" alt = "Node.js" />
 </div>
-                                                                                                            
+
 <div class="flex">
   <img src = "https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress" alt = "Cypress" />
   <img src = "https://img.shields.io/badge/Vitest-17202C?style=for-the-badge&logo=vitest" alt = "Vitest" />
@@ -53,7 +52,14 @@
   <img src = "https://img.shields.io/badge/vite-242424?style=for-the-badge&logo=vite&logoColor=646CFF" alt = "vite" />
 </div>
 
-### Social
+<div class="flex">
+  <img src = "https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt = "SASS" />
+  <img src = "https://img.shields.io/badge/stylus-b3d107?style=for-the-badge&logo=stylus&logoColor=black" alt = "Stylus" />
+  <img src = "https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=black" alt = "Pug" />
+  <img src = "https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt = "markdown" />
+</div>
+
+## Social
 
 <div class="flex">
   <a href="https://codepen.io/kevinbreaker/" target="_blank">
